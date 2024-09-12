@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706526343804",
+    "project_id": "test-89240",
+    "storage_bucket": "test-89240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706526343804:android:75a9addda76d9ff1ae4ff9",
+        "android_client_info": {
+          "package_name": "com.bishal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAv4a6ilMsYU22dKUvZaofr8UiLhGRXSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
